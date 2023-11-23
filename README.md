@@ -1,4 +1,4 @@
-# Project Prompt: [Python Project]
+# Python Project
 
 ## Overview
 
