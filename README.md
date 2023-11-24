@@ -18,3 +18,5 @@ A number guessing game is a simple yet engaging program where the computer gener
 
 - **Library 1:**
   _1. Random_
+  _2. Logic of Loop_
+  _3. Expected Error Detector_
