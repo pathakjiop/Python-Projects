@@ -9,7 +9,7 @@ print(f'\n\t\t\t\t\t\t\tGuess the number in the range from {lower_num} to {upper
 max_attempts = 5
 attempts =0
 # Run loop for 5 times the game 
-while attempts <= max_attempts:
+while attempts < max_attempts:
     
 # making sure the number of attempts is at least one   
     attempts += 1
