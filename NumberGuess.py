@@ -2,6 +2,7 @@ from random import randint
 
 # Start the program with basic setup
 lower_num, upper_num = 1, 10
+
 random_number: int = randint(lower_num, upper_num)
 print(f'\n\t\t\t\t\t\t\tGuess the number in the range from {lower_num} to {upper_num}.')
 
