@@ -11,7 +11,7 @@ attempts =0
 # Run loop for 5 times the game 
 while attempts <= max_attempts:
     
- # making sure the number of attempts is at least one   
+# making sure the number of attempts is at least one   
     attempts += 1
     # Get the user guess
     
