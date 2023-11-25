@@ -30,7 +30,7 @@ while attempts < max_attempts:
     else:
         print('You guessed it!')
         break
-    
+ 
 
 if attempts == max_attempts:
     print(f'Sorry, you could not guess the number in {max_attempts} attempts. The correct number was {random_number}.')
