@@ -2,7 +2,7 @@ import random
 
 
 def roll_dice(amount: int = 2) -> list[int]:
-    """
+    """ roll dice
     Rolls some dice and returns the results as a list.
 
     :param amount: The amount of dice to roll.
